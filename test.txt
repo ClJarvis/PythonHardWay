@@ -1,1 +1,2 @@
 this is text
+page made from command line to ensure repo is set up correctly.
