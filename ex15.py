@@ -1,9 +1,9 @@
 from sys import argv
 
 script, filename = argv
-
+# open user submitted file
 txt = open(filename)
-
+# prints text of file
 print "Here's your file %r:" % filename
 print txt.read()
 
