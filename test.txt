@@ -1,2 +1,3 @@
-this is text
-page made from command line to ensure repo is set up correctly.
+mary had a little lamb
+its flecce was white as snow
+it was also tasty
