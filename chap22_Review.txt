@@ -1,0 +1,41 @@
+SUMMARY
+
+EX 0:
+
+EX 1:
+Print * sends what follows to the screen
+.py suffix for A Python file
+python command to run a python file
+^ (caret) - Charcter that points to when an error may exist in code.
+SyntaxError error message to tell programmer what the error might be.
+# (octothrope/hash sign) used to comment out a line of code
+
+EX2:
+Comment A note to a programmer in code. This note is not read on the frontend. It is a not explaining what a piece of code does.
+A line of code can be commeted out to turn off that code.
+
+EX3
+Mathmathic Operators
++ plus
+- minus
+/ division
+* Multiplies
+% modulus
+COMPARISIONS
+< less-than
+> greater-than
+<= less-than-equal
+>= greater-than-equal
+
+Order of Operations: Order that math equations are computed
+PEMDAS - Parentheses Exponents Multiplication Division Addition Subtraction.
+
+EX4:
+Variables name for saved data. Use an good descriptive name to better understand the code
+
+EX5
+string anything within a pair of "" or '' quotes is a string. A string is text that a user will see.
+%s, %r, %d formatters SYmbol that tells the program to take a variable and put it where in found the formatter
+
+
+
