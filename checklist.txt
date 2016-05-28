@@ -1,7 +1,7 @@
 A checklist for functions.
 
 1) Did start with function defintion? def
-2) Does function name  contain only characters and underscores '_' ?
+2) Does function name contain only characters and underscores '_' ?
 3) Is there an open parenthesis after the function Name? '('
 4) Did you put agruments after open parenthesis seperated by commas ','?
 5) Did you make each argument unique?
