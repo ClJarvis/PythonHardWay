@@ -27,7 +27,7 @@ def bear_room():
         choice = raw_input("> ")
 
         if choice == "take honey":
-          dead("the bear looks at you the slaps your face off.")
+          dead("the bear looks at you then slaps your face off.")
         elif choice == "taunt bear" and not bear_moved:
             print 'the bear has moved from the door. You can go through it now.'
             bear_moved =  True
@@ -42,7 +42,7 @@ def bear_room():
 def cthulu_room():
     print "Here you see the great evil Cthulhu"
     print "He, it, whatever stares at you and you go insane"
-    print "Do you flee for your life or eat you head?"
+    print "Do you flee for your life or eat your head?"
 
     choice = raw_input("> ")
 
