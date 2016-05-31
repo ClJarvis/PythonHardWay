@@ -1,0 +1,26 @@
+1. every If-statement must have an else
+2. if the else statement should never run because it doesn'ymake sense, make a die function in the else that prints an error message. It will help find errors
+3. never nest if-statements more than tep deep, try keep them one -deep.
+4. Treat if-statement like paragraphs
+    where each if-elis-else grouping is like a set of sentences
+    put blanks lines before and after.
+5. boolean test should be simple
+    if the are comples, move their calculations to variables earlier in you function and use a good variable name.
+
+
+LOOPS
+1. use a while-loop only to loop forever, so proabably never, use it rarely, prefer a for-loop.
+2. use a for-loopfor all other kinds of looping. expecially if there is a limited number of things to loop over.
+
+
+Project : build a text based choose your own adventure game
+      make a map.
+
+Tips
+On a sheet of paper or an index card, write a list of tasks you need to complete to finish the software. This is your to do list.
+Pick the easiest thing you can do from your list.
+Write out English comments in your source file as a guide for how you would accomplish this task in your code.
+Write some of the code under the English comments.
+Quickly run your script so see if that code worked.
+Keep working in a cycle of writing some code, running it to test it, and fixing it until it works.
+Cross this task off your list, then pick your next easiest task and repeat.
