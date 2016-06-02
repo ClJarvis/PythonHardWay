@@ -10,7 +10,7 @@
 
 LOOPS
 1. use a while-loop only to loop forever, so proabably never, use it rarely, prefer a for-loop.
-2. use a for-loopfor all other kinds of looping. expecially if there is a limited number of things to loop over.
+2. use a for-loop for all other kinds of looping. expecially if there is a limited number of things to loop over.
 
 
 Project : build a text based choose your own adventure game
