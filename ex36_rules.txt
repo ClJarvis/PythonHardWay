@@ -1,11 +1,11 @@
 1. every If-statement must have an else
-2. if the else statement should never run because it doesn'ymake sense, make a die function in the else that prints an error message. It will help find errors
-3. never nest if-statements more than tep deep, try keep them one -deep.
+2. if the else statement should never run because it doesn't make sense, make a die function in the else that prints an error message. It will help find errors
+3. never nest if-statements more than two deep, try keep them one deep.
 4. Treat if-statement like paragraphs
-    where each if-elis-else grouping is like a set of sentences
+    where each if-elif-else grouping is like a set of sentences
     put blanks lines before and after.
 5. boolean test should be simple
-    if the are comples, move their calculations to variables earlier in you function and use a good variable name.
+    if they are complex, move their calculations to variables earlier in you function and use a good variable name.
 
 
 LOOPS
