@@ -19,6 +19,7 @@ print stuff[1]
 print stuff[-1] #Whoa fancy coding
 print stuff.pop()
 print ' '.join(stuff) #Whoa cool
+print ' '.join(stuff[0:2]) #Super test
 print '#'.join(stuff[3:5]) #Super Stellar
 print '$'.join(stuff) #testing join
-print ' '.join(stuff[3:5]) #Super test
+print ' '.join(stuff[0:2]) #Super test
